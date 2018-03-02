@@ -1,0 +1,18 @@
+{
+    "name": "prety/secret",
+    "description": "make secret support in laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnny",
+            "email": "jqy.zhou@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Prety\\Secret\\": "src/"
+        }
+    }
+}
